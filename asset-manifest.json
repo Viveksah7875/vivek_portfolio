@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/vivek_portfolio/static/css/main.21808fae.css",
+    "main.js": "/vivek_portfolio/static/js/main.88850fb9.js",
+    "reactPlayerYouTube.js": "/vivek_portfolio/static/js/reactPlayerYouTube.fb38da1f.chunk.js",
+    "reactPlayerSoundCloud.js": "/vivek_portfolio/static/js/reactPlayerSoundCloud.6dbff64d.chunk.js",
+    "reactPlayerVimeo.js": "/vivek_portfolio/static/js/reactPlayerVimeo.f7d6b452.chunk.js",
+    "reactPlayerMux.js": "/vivek_portfolio/static/js/reactPlayerMux.fe8aabdd.chunk.js",
+    "reactPlayerFacebook.js": "/vivek_portfolio/static/js/reactPlayerFacebook.17b30448.chunk.js",
+    "reactPlayerStreamable.js": "/vivek_portfolio/static/js/reactPlayerStreamable.507cd42e.chunk.js",
+    "reactPlayerWistia.js": "/vivek_portfolio/static/js/reactPlayerWistia.f7c05891.chunk.js",
+    "reactPlayerTwitch.js": "/vivek_portfolio/static/js/reactPlayerTwitch.1e0786a3.chunk.js",
+    "reactPlayerDailyMotion.js": "/vivek_portfolio/static/js/reactPlayerDailyMotion.a3f8574b.chunk.js",
+    "reactPlayerMixcloud.js": "/vivek_portfolio/static/js/reactPlayerMixcloud.131eadaa.chunk.js",
+    "reactPlayerVidyard.js": "/vivek_portfolio/static/js/reactPlayerVidyard.a24ad5ba.chunk.js",
+    "reactPlayerKaltura.js": "/vivek_portfolio/static/js/reactPlayerKaltura.48a19449.chunk.js",
+    "reactPlayerFilePlayer.js": "/vivek_portfolio/static/js/reactPlayerFilePlayer.9dcde693.chunk.js",
+    "reactPlayerPreview.js": "/vivek_portfolio/static/js/reactPlayerPreview.44a31496.chunk.js",
+    "static/js/453.4c1dbb71.chunk.js": "/vivek_portfolio/static/js/453.4c1dbb71.chunk.js",
+    "index.html": "/vivek_portfolio/index.html",
+    "main.21808fae.css.map": "/vivek_portfolio/static/css/main.21808fae.css.map",
+    "main.88850fb9.js.map": "/vivek_portfolio/static/js/main.88850fb9.js.map",
+    "reactPlayerYouTube.fb38da1f.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerYouTube.fb38da1f.chunk.js.map",
+    "reactPlayerSoundCloud.6dbff64d.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerSoundCloud.6dbff64d.chunk.js.map",
+    "reactPlayerVimeo.f7d6b452.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerVimeo.f7d6b452.chunk.js.map",
+    "reactPlayerMux.fe8aabdd.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerMux.fe8aabdd.chunk.js.map",
+    "reactPlayerFacebook.17b30448.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerFacebook.17b30448.chunk.js.map",
+    "reactPlayerStreamable.507cd42e.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerStreamable.507cd42e.chunk.js.map",
+    "reactPlayerWistia.f7c05891.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerWistia.f7c05891.chunk.js.map",
+    "reactPlayerTwitch.1e0786a3.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerTwitch.1e0786a3.chunk.js.map",
+    "reactPlayerDailyMotion.a3f8574b.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerDailyMotion.a3f8574b.chunk.js.map",
+    "reactPlayerMixcloud.131eadaa.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerMixcloud.131eadaa.chunk.js.map",
+    "reactPlayerVidyard.a24ad5ba.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerVidyard.a24ad5ba.chunk.js.map",
+    "reactPlayerKaltura.48a19449.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerKaltura.48a19449.chunk.js.map",
+    "reactPlayerFilePlayer.9dcde693.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerFilePlayer.9dcde693.chunk.js.map",
+    "reactPlayerPreview.44a31496.chunk.js.map": "/vivek_portfolio/static/js/reactPlayerPreview.44a31496.chunk.js.map",
+    "453.4c1dbb71.chunk.js.map": "/vivek_portfolio/static/js/453.4c1dbb71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21808fae.css",
+    "static/js/main.88850fb9.js"
+  ]
+}
